@@ -5,11 +5,11 @@
 **Thème : liste, apprentissage stacks**
 Les prinicpales fonctionnalités du site :
 
-heavy_check_mark Mise en page simple avec Bootstrap 5
-heavy_check_mark Creation de composant vueJS/ Vue CLI : Header, Item et Contenu
-heavy_check_mark Création de formulaire de listing des tâches
-heavy_check_mark Envoyer des données
-heavy_check_mark Insertion image banque d'image Unsplash
+- ✔ Mise en page simple avec Bootstrap 5
+- ✔ Creation de composant vueJS/ Vue CLI : Header, Item et Contenu
+- ✔ Création de formulaire de listing des tâches
+- ✔ Envoyer des données
+- ✔ Insertion image banque d'image Unsplash
 
 Image Unsplash: https://unsplash.com/
 Framework bootstrap 5 : https://getbootstrap.com/
